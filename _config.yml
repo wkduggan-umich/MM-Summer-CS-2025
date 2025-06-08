@@ -8,8 +8,8 @@ remote_theme: just-the-docs/just-the-docs
 plugins:
   - jekyll-remote-theme
 
-logo: "/MM-Summer-CS-2025/img/mm-logo.png"
-favicon_ico: "/MM-Summer-CS-2025/img/favicon.ico"
+logo: "img/mm-logo.png"
+favicon_ico: "img/favicon.ico"
 
 nav_enabled: true
 color_scheme: light
