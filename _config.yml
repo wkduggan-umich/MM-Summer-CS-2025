@@ -9,7 +9,7 @@ plugins:
   - jekyll-remote-theme
 
 logo: "/MM-Summer-CS-2025/img/mm-logo.png"
-favicon_ico: "/MM-Summer-CS-2025/img/images/favicon.ico"
+favicon_ico: "/MM-Summer-CS-2025/img/favicon.ico"
 
 nav_enabled: true
-color_scheme: dark
+color_scheme: light
