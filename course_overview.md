@@ -7,7 +7,7 @@ nav_order: 3
 
 Students will learn the basics of python programming and additional prerequisites relating to AI understanding, going from writing their first line of python code to creating a small data analysis final project. Students will become familiar with important python packages: numpy, pandas, plotly, and sklearn. Students will learn how to operate python code through Colab Notebooks. Students will gain understanding in math and logic topics that are crucial for AI and machine learning (ML) understanding.
 - Students will be able to enroll in Aiphabet’s online course, having the prerequisite coding and math background.
-- No coding experience is required. Basic understanding of graphing, algebra, and
+- No coding experience is required. Basic understanding of graphing and algebra is expected.
 
 ## Course Format:
 
