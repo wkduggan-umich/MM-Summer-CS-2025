@@ -9,7 +9,7 @@ plugins:
   - jekyll-remote-theme
 
 logo: "img/mm-logo.png"
-favicon_ico: "img/favicon.ico"
+favicon_ico: "favicon.ico"
 
 nav_enabled: true
 color_scheme: light
