@@ -1,13 +1,15 @@
 title: "Michigan Mentors Summer CS"
 
-url: "https://wkduggan-umich.github.io/MM-Summer-CS-2025/"
-baseurl: ""
+url: "https://wkduggan-umich.github.io"
+baseurl: "/MM-Summer-CS-2025"
 
 remote_theme: just-the-docs/just-the-docs
+
 plugins:
-  - jekyll-remote-theme # add this line to the plugins list if you already have one
-theme: just-the-docs
-logo: "/img/mm-logo.png"
-favicon_ico: "/img/images/favicon.ico"
+  - jekyll-remote-theme
+
+logo: "/MM-Summer-CS-2025/img/mm-logo.png"
+favicon_ico: "/MM-Summer-CS-2025/img/images/favicon.ico"
+
 nav_enabled: true
 color_scheme: dark
