@@ -1,0 +1,10 @@
+title: "Michigan Mentors Summer CS"
+baseurl: ""
+remote_theme: pages-themes/merlot@v0.2.0
+plugins:
+  - jekyll-remote-theme # add this line to the plugins list if you already have one
+theme: just-the-docs
+logo: "/img/mm-logo.png"
+favicon_ico: "/img/images/favicon.ico"
+nav_enabled: true
+color_scheme: dark
