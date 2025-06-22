@@ -4,9 +4,10 @@ nav_order: 5
 ---
 
 # Lesson Plans
-## Below are **brief** outlines of the content covered in each unit. Each week, we will introduce two units in lecture and practice the associated topics in discussion. Lecture and discussion will include practice problems in the form of [Google Colabs](https://colab.research.google.com/), which allow you to write and execute code in your browser.
+### Below are **brief** outlines of the content covered in each unit. Each week, we will introduce two units in lecture and practice the associated topics in discussion. 
+### Lecture and discussion will include practice problems in the form of [Google Colabs](https://colab.research.google.com/), which allow you to write and execute code in your browser.
 
-## For all content links and the course sechdule, see the 'Home' tab.
+For all content links and the course sechdule, see the 'Home' tab.
 
 ### Unit 1: "Hello World"
 
