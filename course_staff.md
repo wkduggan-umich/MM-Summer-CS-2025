@@ -10,4 +10,4 @@ nav_order: 6
 ## Course Managers
 - **[Will Duggan]** - wkduggan@umich.edu
 - **[Nick Walvoord]** - nwlvrd@umich.edu
-- **[Jaocb Robins]** - jhrobins@umich.edu
+- **[Jacob Robins]** - jhrobins@umich.edu
