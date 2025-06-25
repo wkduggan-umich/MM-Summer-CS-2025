@@ -14,4 +14,4 @@ Hello World
 #### Tuesday June 24
 Variables, Operators and Conditionals
 
-[📜Slides]() [📄Blank Colab]() [📝Filled Colab]()
+[📜Slides]() [📄Blank Colab](https://colab.research.google.com/drive/17KqADN9keBSl4b1-TsUnlS0kItr9oiOb) [📝Filled Colab](https://colab.research.google.com/drive/1zIqXLcrAUxfoJzSvCQbBfVZWxd-Q2Oln)
