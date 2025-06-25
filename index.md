@@ -19,4 +19,4 @@ Variables, Operators and Conditionals
 #### Wednesday June 25
 Variables, Operators and Conditionals
 
-[📄Blank Colab](https://colab.research.google.com/drive/1oY58IzLCdmXLPot-E2Zvpmd4P5ekX2Zw#scrollTo=-pDrlxDW7U4o) [📝Solutions] - [Will be posted on 6/26]
+[📄Blank Colab](https://colab.research.google.com/drive/1oY58IzLCdmXLPot-E2Zvpmd4P5ekX2Zw#scrollTo=-pDrlxDW7U4o) [📝Solutions Will be posted on 6/26]
