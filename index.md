@@ -20,3 +20,8 @@ Variables, Operators and Conditionals
 Variables, Operators and Conditionals
 
 [📄Blank Colab](https://colab.research.google.com/drive/1oY58IzLCdmXLPot-E2Zvpmd4P5ekX2Zw#scrollTo=-pDrlxDW7U4o) [📝Solutions](https://colab.research.google.com/drive/19n8evQI3zzwpdoAyy-UByOo3G5HyXcJY)
+
+#### Thursday June 26
+Special Topics: Probability
+
+[📜Slides](https://docs.google.com/presentation/d/18kJ4oT1Nwg_oRq2Zi3HAxSUDwtC2utdylzqIcwXPVeU/edit?slide=id.g36b1b4d645e_4_333#slide=id.g36b1b4d645e_4_333)
