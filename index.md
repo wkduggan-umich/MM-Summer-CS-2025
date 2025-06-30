@@ -9,7 +9,7 @@ nav_order: 1
 #### Monday June 30
 Lists
 
-[📜Slides]() [📄Blank Colab](https://colab.research.google.com/drive/1RK8KKTjKymidXYz6qFRnDpf1sH02fVkW) [📝Filled Colab]()
+[📜Slides](https://docs.google.com/presentation/d/1OUU_5xReUselbx4EtZKbGvgmq250E-chhDfJSUpCTWA/edit?slide=id.g36c17606fc9_1_12#slide=id.g36c17606fc9_1_12) [📄Blank Colab](https://colab.research.google.com/drive/1RK8KKTjKymidXYz6qFRnDpf1sH02fVkW) [📝Filled Colab]()
 
 ### Week 1 (6/23 - 6/26)
 #### Monday June 23
