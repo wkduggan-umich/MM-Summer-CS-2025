@@ -5,6 +5,12 @@ nav_order: 1
 # Intoduction to Python and Data Science
 ### Michigan Mentors Summer 25
 
+### Week 2 (6/30 - 7/3)
+#### Monday June 30
+Lists
+
+[📜Slides]() [📄Blank Colab](https://colab.research.google.com/drive/1RK8KKTjKymidXYz6qFRnDpf1sH02fVkW) [📝Filled Colab]()
+
 ### Week 1 (6/23 - 6/26)
 #### Monday June 23
 Hello World
@@ -25,9 +31,3 @@ Variables, Operators and Conditionals
 Special Topics: Probability
 
 [📜Slides](https://docs.google.com/presentation/d/18kJ4oT1Nwg_oRq2Zi3HAxSUDwtC2utdylzqIcwXPVeU/edit?slide=id.g36b1b4d645e_4_333#slide=id.g36b1b4d645e_4_333)
-
-### Week 2 (6/30 - 7/3)
-#### Monday June 30
-Lists
-
-[📜Slides]() [📄Blank Colab](https://colab.research.google.com/drive/1RK8KKTjKymidXYz6qFRnDpf1sH02fVkW) [📝Filled Colab]()
