@@ -30,4 +30,4 @@ Special Topics: Probability
 #### Monday June 30
 Lists
 
-[📜Slides]() [📄Blank Colab]() [📝Filled Colab]()
+[📜Slides]() [📄Blank Colab](https://colab.research.google.com/drive/1RK8KKTjKymidXYz6qFRnDpf1sH02fVkW) [📝Filled Colab]()
