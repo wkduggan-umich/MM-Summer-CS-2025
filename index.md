@@ -19,7 +19,7 @@ Loops
 #### Wednesday July 2
 Lists and Loops [Solutions will be posted on 7/3]
 
-[📄Blank Colab](https://colab.research.google.com/drive/1BVNVkVrV_MJG7cxPcCscpG1qc0VcIUvA) [📝Solutions]()
+[📄Blank Colab](https://colab.research.google.com/drive/1BVNVkVrV_MJG7cxPcCscpG1qc0VcIUvA) [📝Solutions](https://colab.research.google.com/drive/1oJV-x6ZYCP2t4NZqy1PUUxC2rrYsxKZt#scrollTo=nwxiBmn6JFvL)
 
 ### Week 1 (6/23 - 6/26)
 #### Monday June 23
