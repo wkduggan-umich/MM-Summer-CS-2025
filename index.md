@@ -9,15 +9,15 @@ nav_order: 1
 #### Monday June 30
 Lists
 
-[📜Slides](https://docs.google.com/presentation/d/1OUU_5xReUselbx4EtZKbGvgmq250E-chhDfJSUpCTWA/edit?slide=id.g36c17606fc9_1_12#slide=id.g36c17606fc9_1_12) [📄Blank Colab](https://colab.research.google.com/drive/1RK8KKTjKymidXYz6qFRnDpf1sH02fVkW)
+[📜Slides](https://docs.google.com/presentation/d/1OUU_5xReUselbx4EtZKbGvgmq250E-chhDfJSUpCTWA/edit?slide=id.g36c17606fc9_1_12#slide=id.g36c17606fc9_1_12) [📄Blank Colab](https://colab.research.google.com/drive/1RK8KKTjKymidXYz6qFRnDpf1sH02fVkW) [📝Filled Colab]()
 
 #### Tuesday July 1
 Loops
 
-[📜Slides](https://docs.google.com/presentation/d/1sswjBDuGje8o8ibMFSx3DtFwreMSsEXyb5vylHU6L8U/edit?slide=id.p1#slide=id.p1) [📄Blank Colab](https://colab.research.google.com/drive/1vrqp8b2gKag8iciWR194sKrnLKRW_aW8)
+[📜Slides](https://docs.google.com/presentation/d/1sswjBDuGje8o8ibMFSx3DtFwreMSsEXyb5vylHU6L8U/edit?slide=id.p1#slide=id.p1) [📄Blank Colab](https://colab.research.google.com/drive/1vrqp8b2gKag8iciWR194sKrnLKRW_aW8) [📝Filled Colab]()
 
 #### Wednesday July 2
-Lists and Loops [SOLUTIONS POSTED ON 7/4]
+Lists and Loops [SOLUTIONS POSTED ON 7/3]
 
 [📄Blank Colab](https://colab.research.google.com/drive/1BVNVkVrV_MJG7cxPcCscpG1qc0VcIUvA) [📝Solutions]()
 
