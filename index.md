@@ -9,12 +9,17 @@ nav_order: 1
 #### Monday June 30
 Lists
 
-[📜Slides](https://docs.google.com/presentation/d/1OUU_5xReUselbx4EtZKbGvgmq250E-chhDfJSUpCTWA/edit?slide=id.g36c17606fc9_1_12#slide=id.g36c17606fc9_1_12) [📄Blank Colab](https://colab.research.google.com/drive/1RK8KKTjKymidXYz6qFRnDpf1sH02fVkW) [📝Filled Colab]()
+[📜Slides](https://docs.google.com/presentation/d/1OUU_5xReUselbx4EtZKbGvgmq250E-chhDfJSUpCTWA/edit?slide=id.g36c17606fc9_1_12#slide=id.g36c17606fc9_1_12) [📄Blank Colab](https://colab.research.google.com/drive/1RK8KKTjKymidXYz6qFRnDpf1sH02fVkW)
 
 #### Tuesday July 1
 Loops
 
 [📜Slides](https://docs.google.com/presentation/d/1sswjBDuGje8o8ibMFSx3DtFwreMSsEXyb5vylHU6L8U/edit?slide=id.p1#slide=id.p1) [📄Blank Colab](https://colab.research.google.com/drive/1vrqp8b2gKag8iciWR194sKrnLKRW_aW8)
+
+#### Wednesday July 3
+Lists and Loops
+
+[📄Blank Colab](https://colab.research.google.com/drive/1BVNVkVrV_MJG7cxPcCscpG1qc0VcIUvA) [📝Solutions]()
 
 ### Week 1 (6/23 - 6/26)
 #### Monday June 23
