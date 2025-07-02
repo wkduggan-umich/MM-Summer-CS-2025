@@ -16,7 +16,7 @@ Loops
 
 [📜Slides](https://docs.google.com/presentation/d/1sswjBDuGje8o8ibMFSx3DtFwreMSsEXyb5vylHU6L8U/edit?slide=id.p1#slide=id.p1) [📄Blank Colab](https://colab.research.google.com/drive/1vrqp8b2gKag8iciWR194sKrnLKRW_aW8)
 
-#### Wednesday July 3
+#### Wednesday July 2
 Lists and Loops
 
 [📄Blank Colab](https://colab.research.google.com/drive/1BVNVkVrV_MJG7cxPcCscpG1qc0VcIUvA) [📝Solutions]()
