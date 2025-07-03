@@ -14,7 +14,7 @@ Lists
 #### Tuesday July 1
 Loops
 
-[📜Slides](https://docs.google.com/presentation/d/1sswjBDuGje8o8ibMFSx3DtFwreMSsEXyb5vylHU6L8U/edit?slide=id.p1#slide=id.p1) [📄Blank Colab](https://colab.research.google.com/drive/1vrqp8b2gKag8iciWR194sKrnLKRW_aW8) [📝Filled Colab]()
+[📜Slides](https://docs.google.com/presentation/d/1sswjBDuGje8o8ibMFSx3DtFwreMSsEXyb5vylHU6L8U/edit?slide=id.p1#slide=id.p1) [📄Blank Colab](https://colab.research.google.com/drive/1vrqp8b2gKag8iciWR194sKrnLKRW_aW8) [📝Filled Colab](https://colab.research.google.com/drive/1--YiuhvteFDv9mFdgcy6O53QdJifW1KX)
 
 #### Wednesday July 2
 Lists and Loops [Solutions will be posted on 7/3]
