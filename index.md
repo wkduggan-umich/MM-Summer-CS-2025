@@ -23,6 +23,7 @@ Lists and Loops
 
 #### Thursday July 3
 Logic
+
 [📜Slides](https://docs.google.com/presentation/d/1ix5b1niGiR-SVuh--XOBCBgWIi1m0Rwxrh44D5GDAOE/edit)
 
 
