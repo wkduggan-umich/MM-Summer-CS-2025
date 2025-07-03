@@ -17,9 +17,14 @@ Loops
 [📜Slides](https://docs.google.com/presentation/d/1sswjBDuGje8o8ibMFSx3DtFwreMSsEXyb5vylHU6L8U/edit?slide=id.p1#slide=id.p1) [📄Blank Colab](https://colab.research.google.com/drive/1vrqp8b2gKag8iciWR194sKrnLKRW_aW8) [📝Filled Colab](https://colab.research.google.com/drive/1--YiuhvteFDv9mFdgcy6O53QdJifW1KX)
 
 #### Wednesday July 2
-Lists and Loops [Solutions will be posted on 7/3]
+Lists and Loops
 
 [📄Blank Colab](https://colab.research.google.com/drive/1BVNVkVrV_MJG7cxPcCscpG1qc0VcIUvA) [📝Solutions](https://colab.research.google.com/drive/1oJV-x6ZYCP2t4NZqy1PUUxC2rrYsxKZt#scrollTo=nwxiBmn6JFvL)
+
+#### Thursday July 3
+Logic
+[📜Slides](https://docs.google.com/presentation/d/1ix5b1niGiR-SVuh--XOBCBgWIi1m0Rwxrh44D5GDAOE/edit)
+
 
 ### Week 1 (6/23 - 6/26)
 #### Monday June 23
