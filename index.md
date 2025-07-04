@@ -24,7 +24,7 @@ Lists and Loops
 #### Thursday July 3
 Logic
 
-[📜Slides](https://docs.google.com/presentation/d/1ix5b1niGiR-SVuh--XOBCBgWIi1m0Rwxrh44D5GDAOE/edit)
+[📜Slides](https://docs.google.com/presentation/d/1ix5b1niGiR-SVuh--XOBCBgWIi1m0Rwxrh44D5GDAOE/edit)[📝Solutions](https://drive.google.com/file/d/1EY7sldANWr70SEQDGht1t2t4Gc4XzhFW/view?usp=sharing)
 
 
 ### Week 1 (6/23 - 6/26)
