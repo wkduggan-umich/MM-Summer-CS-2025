@@ -5,11 +5,18 @@ nav_order: 1
 # Intoduction to Python and Data Science
 ### Michigan Mentors Summer 25
 
+### Week 3 (7/7 - 7/10)
+#### Monday July 7
+Functions
+
+[📜Slides]() [📄Blank Colab](https://colab.research.google.com/drive/1hYRgdXLFok47T-Oc9iHr8e4_KLP-NqBt#scrollTo=F-8Nv_-g_Wdp) [📝Filled Colab]()
+
+
 ### Week 2 (6/30 - 7/3)
 #### Monday June 30
 Lists
 
-[📜Slides](https://docs.google.com/presentation/d/1OUU_5xReUselbx4EtZKbGvgmq250E-chhDfJSUpCTWA/edit?slide=id.g36c17606fc9_1_12#slide=id.g36c17606fc9_1_12) [📄Blank Colab](https://colab.research.google.com/drive/1RK8KKTjKymidXYz6qFRnDpf1sH02fVkW) [📝Filled Colab]()
+[📜Slides](https://docs.google.com/presentation/d/1OUU_5xReUselbx4EtZKbGvgmq250E-chhDfJSUpCTWA/edit?slide=id.g36c17606fc9_1_12#slide=id.g36c17606fc9_1_12) [📄Blank Colab](https://colab.research.google.com/drive/1RK8KKTjKymidXYz6qFRnDpf1sH02fVkW) [📝Filled Colab](https://colab.research.google.com/drive/1KLT2hwUUR-kBNRmYSciGl23r9Jy9oFs6#scrollTo=bb0p0_gaqgBN)
 
 #### Tuesday July 1
 Loops
