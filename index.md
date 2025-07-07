@@ -9,7 +9,7 @@ nav_order: 1
 #### Monday July 7
 Functions
 
-[📜Slides]() [📄Blank Colab](https://colab.research.google.com/drive/1hYRgdXLFok47T-Oc9iHr8e4_KLP-NqBt#scrollTo=F-8Nv_-g_Wdp) [📝Filled Colab]()
+[📜Slides](https://docs.google.com/presentation/d/1OXcFKKm9GBBFdZa-icvGEDBYxOtM15m6QLF7syjBTDw/edit?slide=id.g36d855e6732_2_91#slide=id.g36d855e6732_2_91) [📄Blank Colab](https://colab.research.google.com/drive/1hYRgdXLFok47T-Oc9iHr8e4_KLP-NqBt#scrollTo=F-8Nv_-g_Wdp) [📝Filled Colab](https://colab.research.google.com/drive/19335_LooPfd6IeSGHO_UesnknAlLrEaO#scrollTo=m7ZqztgOIKsk)
 
 
 ### Week 2 (6/30 - 7/3)
