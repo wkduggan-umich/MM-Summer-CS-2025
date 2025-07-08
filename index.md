@@ -11,6 +11,11 @@ Functions
 
 [📜Slides](https://docs.google.com/presentation/d/1OXcFKKm9GBBFdZa-icvGEDBYxOtM15m6QLF7syjBTDw/edit?slide=id.g36d855e6732_2_91#slide=id.g36d855e6732_2_91) [📄Blank Colab](https://colab.research.google.com/drive/1hYRgdXLFok47T-Oc9iHr8e4_KLP-NqBt#scrollTo=F-8Nv_-g_Wdp) [📝Filled Colab](https://colab.research.google.com/drive/19335_LooPfd6IeSGHO_UesnknAlLrEaO#scrollTo=m7ZqztgOIKsk)
 
+#### Tuesday July 8
+Numpy
+
+[📜Slides](https://docs.google.com/presentation/d/13CB1cI1k4KFoUn1FAJzxHyucypWVka3Jf3M9aNHKuuI/edit?slide=id.p1#slide=id.p1) [📝Filled Colab](https://colab.research.google.com/drive/1elEE_G_ZGQatg2RNcAXQCsnUhrUiDpvB#scrollTo=UH40aw8QJ2ME) 
+
 
 ### Week 2 (6/30 - 7/3)
 #### Monday June 30
