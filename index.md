@@ -14,8 +14,12 @@ Functions
 #### Tuesday July 8
 Numpy
 
-[📜Slides](https://docs.google.com/presentation/d/13CB1cI1k4KFoUn1FAJzxHyucypWVka3Jf3M9aNHKuuI/edit?slide=id.p1#slide=id.p1) [📝Filled Colab](https://colab.research.google.com/drive/1elEE_G_ZGQatg2RNcAXQCsnUhrUiDpvB#scrollTo=UH40aw8QJ2ME) 
+[📜Slides](https://docs.google.com/presentation/d/13CB1cI1k4KFoUn1FAJzxHyucypWVka3Jf3M9aNHKuuI/edit?slide=id.p1#slide=id.p1) [📝Filled Colab](https://colab.research.google.com/drive/1elEE_G_ZGQatg2RNcAXQCsnUhrUiDpvB#scrollTo=UH40aw8QJ2ME)
 
+#### Wednesday July 9
+Discussion: Functions
+
+[📄Blank Colab](https://colab.research.google.com/drive/1mwQ7MEKHKuPb6_VuCE1SV8cjJ8YkDm1R)
 
 ### Week 2 (6/30 - 7/3)
 #### Monday June 30
@@ -29,12 +33,12 @@ Loops
 [📜Slides](https://docs.google.com/presentation/d/1sswjBDuGje8o8ibMFSx3DtFwreMSsEXyb5vylHU6L8U/edit?slide=id.p1#slide=id.p1) [📄Blank Colab](https://colab.research.google.com/drive/1vrqp8b2gKag8iciWR194sKrnLKRW_aW8) [📝Filled Colab](https://colab.research.google.com/drive/1--YiuhvteFDv9mFdgcy6O53QdJifW1KX)
 
 #### Wednesday July 2
-Lists and Loops
+Discussion: Lists and Loops
 
 [📄Blank Colab](https://colab.research.google.com/drive/1BVNVkVrV_MJG7cxPcCscpG1qc0VcIUvA) [📝Solutions](https://colab.research.google.com/drive/1oJV-x6ZYCP2t4NZqy1PUUxC2rrYsxKZt#scrollTo=nwxiBmn6JFvL)
 
 #### Thursday July 3
-Logic
+Special Topics: Logic
 
 [📜Slides](https://docs.google.com/presentation/d/1ix5b1niGiR-SVuh--XOBCBgWIi1m0Rwxrh44D5GDAOE/edit) [📝Solutions](https://drive.google.com/file/d/1EY7sldANWr70SEQDGht1t2t4Gc4XzhFW/view?usp=sharing)
 
@@ -51,7 +55,7 @@ Variables, Operators and Conditionals
 [📜Slides](https://docs.google.com/presentation/d/1BTZPDxPLZqnnunDJzuD7BDwfUWGmg4Cc) [📄Blank Colab](https://colab.research.google.com/drive/17KqADN9keBSl4b1-TsUnlS0kItr9oiOb) [📝Filled Colab](https://colab.research.google.com/drive/1zIqXLcrAUxfoJzSvCQbBfVZWxd-Q2Oln)
 
 #### Wednesday June 25
-Variables, Operators and Conditionals
+Discussion: Variables, Operators and Conditionals
 
 [📄Blank Colab](https://colab.research.google.com/drive/1oY58IzLCdmXLPot-E2Zvpmd4P5ekX2Zw#scrollTo=-pDrlxDW7U4o) [📝Solutions](https://colab.research.google.com/drive/19n8evQI3zzwpdoAyy-UByOo3G5HyXcJY)
 
