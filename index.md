@@ -19,7 +19,7 @@ Numpy
 #### Wednesday July 9
 Discussion: Functions
 
-[📄Blank Colab](https://colab.research.google.com/drive/1mwQ7MEKHKuPb6_VuCE1SV8cjJ8YkDm1R)
+[📄Blank Colab](https://colab.research.google.com/drive/1mwQ7MEKHKuPb6_VuCE1SV8cjJ8YkDm1R)[📝Filled Colab](https://colab.research.google.com/drive/1NT7PCIo4S-5roJva99M1eFXr9cUwSoE9?usp=sharing)
 
 ### Week 2 (6/30 - 7/3)
 #### Monday June 30
