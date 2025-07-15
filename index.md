@@ -8,6 +8,7 @@ nav_order: 1
 ### Week 4 (7/14 - 7/17)
 #### Monday July 14
 Discussion: NumPy
+
 [📄Blank Colab](https://colab.research.google.com/drive/1No_YO-E-lDpIGgZoA5PtqJb-46TUZDYU#scrollTo=6Evv4ykyOS7G) [📝Filled Colab](https://colab.research.google.com/drive/1p5CQ_q7ngGjngVsmn0M1AhMz2mmMsff_#scrollTo=itbP5W1hrmeD)
 
 
