@@ -9,7 +9,7 @@ nav_order: 1
 #### Monday July 14
 Discussion: NumPy
 
-[📄Blank Colab](https://colab.research.google.com/drive/1No_YO-E-lDpIGgZoA5PtqJb-46TUZDYU#scrollTo=6Evv4ykyOS7G) [📝Filled Colab](https://colab.research.google.com/drive/1p5CQ_q7ngGjngVsmn0M1AhMz2mmMsff_#scrollTo=itbP5W1hrmeD)
+[📄Blank Colab](https://colab.research.google.com/drive/1No_YO-E-lDpIGgZoA5PtqJb-46TUZDYU#scrollTo=6Evv4ykyOS7G) [📝Filled Colab](https://colab.research.google.com/drive/1p5CQ_q7ngGjngVsmn0M1AhMz2mmMsff_#scrollTo=itbP5W1hrmeD) [Dogs Google Sheet](https://docs.google.com/spreadsheets/d/1Ap3BGM0GCYiUcrtmHEd3SInlQ1MV5pIh5p-0-3KKcpw/edit?gid=192868254#gid=192868254)
 
 #### Tuesday July 15
 Pandas
