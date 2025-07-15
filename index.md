@@ -27,6 +27,11 @@ Discussion: Functions
 
 [📄Blank Colab](https://colab.research.google.com/drive/1mwQ7MEKHKuPb6_VuCE1SV8cjJ8YkDm1R)[📝Filled Colab]()
 
+#### Thursday July 10
+Resume Building
+
+[Resume Workshop Doc](https://docs.google.com/document/d/1JU8153cf4-0OYM1ElnjM5od65I8PPEee2t6Ns9anrkg/edit?tab=t.0#heading=h.jrd68i2fvxse)
+
 
 ### Week 2 (6/30 - 7/3)
 #### Monday June 30
