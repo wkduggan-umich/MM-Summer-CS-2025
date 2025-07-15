@@ -8,7 +8,7 @@ nav_order: 1
 ### Week 4 (7/14 - 7/17)
 #### Monday July 14
 Discussion: NumPy
-[📄Blank Colab](https://colab.research.google.com/drive/1No_YO-E-lDpIGgZoA5PtqJb-46TUZDYU#scrollTo=6Evv4ykyOS7G) [📝Filled Colab]()
+[📄Blank Colab](https://colab.research.google.com/drive/1No_YO-E-lDpIGgZoA5PtqJb-46TUZDYU#scrollTo=6Evv4ykyOS7G) [📝Filled Colab](https://colab.research.google.com/drive/1p5CQ_q7ngGjngVsmn0M1AhMz2mmMsff_#scrollTo=itbP5W1hrmeD)
 
 
 ### Week 3 (7/7 - 7/10)
@@ -25,7 +25,7 @@ Numpy
 #### Wednesday July 9
 Discussion: Functions
 
-[📄Blank Colab](https://colab.research.google.com/drive/1mwQ7MEKHKuPb6_VuCE1SV8cjJ8YkDm1R)[📝Filled Colab]()
+[📄Blank Colab](https://colab.research.google.com/drive/1mwQ7MEKHKuPb6_VuCE1SV8cjJ8YkDm1R)[📝Filled Colab](https://colab.research.google.com/drive/1WdvZBVd_bqPWOu6qTk3z2UKDyxvmVpVu)
 
 
 ### Week 2 (6/30 - 7/3)
