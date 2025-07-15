@@ -11,6 +11,10 @@ Discussion: NumPy
 
 [📄Blank Colab](https://colab.research.google.com/drive/1No_YO-E-lDpIGgZoA5PtqJb-46TUZDYU#scrollTo=6Evv4ykyOS7G) [📝Filled Colab](https://colab.research.google.com/drive/1p5CQ_q7ngGjngVsmn0M1AhMz2mmMsff_#scrollTo=itbP5W1hrmeD)
 
+#### Tuesday July 15
+Pandas
+
+[📜Slides](https://docs.google.com/presentation/d/1MBzShxO7VsQcsAH3CZyAa08asf-moGEE6wuGCjx8BZ8/edit?slide=id.p1#slide=id.p1)[📄Filled Colab](https://colab.research.google.com/drive/1aoFuOm_zuKH6d0T5lqOXSecCZH40tJ-K)
 
 ### Week 3 (7/7 - 7/10)
 #### Monday July 7
