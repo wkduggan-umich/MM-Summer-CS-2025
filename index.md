@@ -14,7 +14,7 @@ Discussion: NumPy
 #### Tuesday July 15
 Pandas
 
-[📜Slides](https://docs.google.com/presentation/d/1MBzShxO7VsQcsAH3CZyAa08asf-moGEE6wuGCjx8BZ8/edit?slide=id.p1#slide=id.p1) [📄Filled Colab](https://colab.research.google.com/drive/1aoFuOm_zuKH6d0T5lqOXSecCZH40tJ-K) [🐶Dogs Google Sheet](https://docs.google.com/spreadsheets/d/1Ap3BGM0GCYiUcrtmHEd3SInlQ1MV5pIh5p-0-3KKcpw/edit?gid=192868254#gid=192868254)
+[📜Slides](https://docs.google.com/presentation/d/1MBzShxO7VsQcsAH3CZyAa08asf-moGEE6wuGCjx8BZ8/edit?slide=id.p1#slide=id.p1) [📝Filled Colab](https://colab.research.google.com/drive/1aoFuOm_zuKH6d0T5lqOXSecCZH40tJ-K) [🐶Dogs Google Sheet](https://docs.google.com/spreadsheets/d/1Ap3BGM0GCYiUcrtmHEd3SInlQ1MV5pIh5p-0-3KKcpw/edit?gid=192868254#gid=192868254)
 
 #### Wednesday July 16
 Discussion: Pandas
