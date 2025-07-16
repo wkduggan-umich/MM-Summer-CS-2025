@@ -15,7 +15,7 @@ For all content links and the course sechdule, see the 'Home' tab.
 - Python Overview
     - Including comparative analysis with other programming languages
 
-### Unit 2: Booleans and Conditionals
+### Unit 2: Variables, Operators and Conditionals
 
 - Introduction to Variables
     - Python data types

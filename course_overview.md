@@ -20,8 +20,8 @@ The class will be held in a lecture and discussion format. In lecture, concepts 
 
 ## Course Outline:
 
-- Unit 1: “Hello World”, Variables, and Operations
-- Unit 2: Conditionals
+- Unit 1: “Hello World”
+- Unit 2: Variables, Operators and Conditionals
 - Unit 3: Lists
 - Unit 4: Loops
 - Unit 5: Functions
