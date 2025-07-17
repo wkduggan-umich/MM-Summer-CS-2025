@@ -21,6 +21,11 @@ Discussion: Pandas
 
 [📄Blank Colab](https://colab.research.google.com/drive/1KwSVqFBb56gF5C1UUFUs1E72klutcFrR#scrollTo=HZqiIiSz-RU-) [📝Filled Colab](https://colab.research.google.com/drive/1SUObNDJm66IBglByrmAC3aKZALYlXpLg#scrollTo=i-Twn185GlDp) [🎥IMDb CSV File](https://drive.google.com/drive/folders/1YguhxJ9Rndq9L1VNBNE7UC2iNEyTkX65)
 
+#### Thursday July 17
+Plotly
+
+[📜Slides](https://docs.google.com/presentation/d/1oj3O3cQK0_Gl2HSKRN2pGmyV60mcSuqvv-HmgXoi_Gg/edit?slide=id.p1#slide=id.p1) [📄Blank Colab](https://colab.research.google.com/drive/1R1_9y4M0Q8-fg-_qHwhkeCEK8IQnc1tw#scrollTo=cBzsEHQncaVy) [📝Filled Colab](https://colab.research.google.com/drive/1SGPgAV3isqB2lEXUp0o5s_lhOPnVjKPt)
+
 
 ### Week 3 (7/7 - 7/10)
 #### Monday July 7
