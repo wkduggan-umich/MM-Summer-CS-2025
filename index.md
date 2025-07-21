@@ -9,7 +9,7 @@ nav_order: 1
 #### Monday July 21
 Discussion: Plotly
 
-[📜Slides]() [📄Blank Colab](https://colab.research.google.com/drive/1si9Bw1A6r23GpGL_j8vA8gyeFXB05o71#scrollTo=-tJOW9QU9EO_) [📝Filled Colab](https://colab.research.google.com/drive/1vNJpFopb-5BTgXK6btSFgnMXDqA7usfV) [💼Insurance Google Sheet](https://drive.google.com/drive/folders/1V6GZ0WcA0yCqwD0ze2MSRH0d0eWpaVh_?dmr=1&ec=wgc-drive-globalnav-goto)
+[📄Blank Colab](https://colab.research.google.com/drive/1si9Bw1A6r23GpGL_j8vA8gyeFXB05o71#scrollTo=-tJOW9QU9EO_) [📝Filled Colab](https://colab.research.google.com/drive/1vNJpFopb-5BTgXK6btSFgnMXDqA7usfV) [💼Insurance Google Sheet](https://drive.google.com/drive/folders/1V6GZ0WcA0yCqwD0ze2MSRH0d0eWpaVh_?dmr=1&ec=wgc-drive-globalnav-goto)
 
 ### Week 4 (7/14 - 7/17)
 #### Monday July 14
