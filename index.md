@@ -11,6 +11,16 @@ Discussion: Plotly
 
 [📄Blank Colab](https://colab.research.google.com/drive/1si9Bw1A6r23GpGL_j8vA8gyeFXB05o71#scrollTo=-tJOW9QU9EO_) [📝Filled Colab](https://colab.research.google.com/drive/1vNJpFopb-5BTgXK6btSFgnMXDqA7usfV) [💼Insurance Google Sheet](https://drive.google.com/drive/folders/1V6GZ0WcA0yCqwD0ze2MSRH0d0eWpaVh_?dmr=1&ec=wgc-drive-globalnav-goto)
 
+#### Tuesday July 21 / Wednesday July 22
+Machine Learning Basics
+
+[📜Slides](https://docs.google.com/presentation/d/1papp70_XCmL1v27vSA_rsBtjIjjZZv7oTENS9yCUwfc/edit?slide=id.g36f96e9ee04_2_12#slide=id.g36f96e9ee04_2_12)
+
+#### Thursday July 24
+Final Project Intro + Data Cleaning
+
+[📜Slides](https://docs.google.com/presentation/d/18vOqGIQNzmr66u0mv4rRJmj02AvqlL4cxGnXR0L8S6w/edit?slide=id.p#slide=id.p) [📝Filled Colab](https://colab.research.google.com/drive/1al5Yd3guxq9KxMtA7AK02RN31HRFmjpK#scrollTo=Dcj7dFynoNmg)
+
 ### Week 4 (7/14 - 7/17)
 #### Monday July 14
 Discussion: NumPy
