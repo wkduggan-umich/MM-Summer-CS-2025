@@ -12,4 +12,4 @@ nav_order: 2
 | Week 3<br>(7/7 - 7/10) | Functions | NumPy | Discussion: Functions and NumPy | Resume Building Workshop |
 | Week 4<br>(7/14 - 7/17) | Discussion: NumPy | Pandas | Discussion: Pandas | Plotly |
 | Week 5<br>(7/21 - 7/24) | Discussion:Pandas Review and Plotly | ML Basics: k-nearest neighbors | ML Basics: Linear Regression | Final Project Intro |
-| Week 6<br>(7/28 - 7/31) | ML Basics with Sklearn | Final Project Workshop | Final Project Workshop | Final Project Demo/Feedback |
+| Week 6<br>(7/28 - 7/31) | Final Project Materials | ML Basics: KNN with Sklearn | ML Basics: Linear Regression with Sklearn | Final Project Demo/Feedback |

@@ -5,6 +5,20 @@ nav_order: 1
 # Intoduction to Python and Data Science
 ### Michigan Mentors Summer 25
 
+## Final Project Week
+### Week 6 (7/28 - 7/31)
+#### Monday July 28
+[🗂️Final Project Colab](https://colab.research.google.com/drive/1tNOkE0PI4hfuua3e0UTKOguM_UQSkXut#scrollTo=5Re88P96CHEO)
+
+#### Proposed Datasets
+[🩺Diabetes / Breast Cancer (Sklearn Toy Datasets)](https://scikit-learn.org/stable/datasets/toy_dataset.html)
+[🐚Abalone (UCI ML Datasets)](https://archive.ics.uci.edu/dataset/1/abalone)
+[📈Student Performance (Kaggle)](https://www.kaggle.com/datasets/nikhil7280/student-performance-multiple-linear-regression)
+[💸Fake Bills Classification (Kaggle)](https://www.kaggle.com/datasets/alexandrepetit881234/fake-bills)
+[🪟Glass Classification (UCI ML Datasets)](https://archive.ics.uci.edu/dataset/42/glass+identification)
+[🔋Appliances Energy Prediction]
+[Kaggle](https://www.kaggle.com/datasets/loveall/appliances-energy-prediction) [UCI ML Datasets](https://archive.ics.uci.edu/dataset/374/appliances+energy+prediction)
+
 ### Week 5 (7/21 - 7/24)
 #### Monday July 21
 Discussion: Plotly
