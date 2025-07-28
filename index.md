@@ -12,11 +12,16 @@ nav_order: 1
 
 #### Proposed Datasets
 [🩺Diabetes / Breast Cancer (Sklearn Toy Datasets)](https://scikit-learn.org/stable/datasets/toy_dataset.html)
+
 [🐚Abalone (UCI ML Datasets)](https://archive.ics.uci.edu/dataset/1/abalone)
+
 [📈Student Performance (Kaggle)](https://www.kaggle.com/datasets/nikhil7280/student-performance-multiple-linear-regression)
+
 [💸Fake Bills Classification (Kaggle)](https://www.kaggle.com/datasets/alexandrepetit881234/fake-bills)
+
 [🪟Glass Classification (UCI ML Datasets)](https://archive.ics.uci.edu/dataset/42/glass+identification)
-[🔋Appliances Energy Prediction]
+
+🔋Appliances Energy Prediction
 [Kaggle](https://www.kaggle.com/datasets/loveall/appliances-energy-prediction) [UCI ML Datasets](https://archive.ics.uci.edu/dataset/374/appliances+energy+prediction)
 
 ### Week 5 (7/21 - 7/24)
