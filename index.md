@@ -8,6 +8,8 @@ nav_order: 1
 ## Final Project Week
 ### Week 6 (7/28 - 7/31)
 #### Monday July 28
+Final Project Discussion
+
 [🗂️Final Project Colab](https://colab.research.google.com/drive/1tNOkE0PI4hfuua3e0UTKOguM_UQSkXut#scrollTo=5Re88P96CHEO)
 
 #### Proposed Datasets
@@ -23,6 +25,11 @@ nav_order: 1
 
 🔋Appliances Energy Prediction
 [Kaggle](https://www.kaggle.com/datasets/loveall/appliances-energy-prediction) [UCI ML Datasets](https://archive.ics.uci.edu/dataset/374/appliances+energy+prediction)
+
+#### Tuesday July 29
+Machine Learning KNN
+
+[📜Slides](https://docs.google.com/presentation/d/1rjgrgDPnW9Fj8OG85434-DAT2MsJOL3ukpLAK4wOv_c/edit?slide=id.p1#slide=id.p1) [📄Blank Colab](https://colab.research.google.com/drive/1IQ2QQhBnbMz2OGPBndAcxBQnOiL9iQuH#scrollTo=jPve3NDscasu) [📝Filled Colab](https://colab.research.google.com/drive/1NMZoWAkiMnuHk6FBwO51s7gZsxbhmnRQ#scrollTo=HKHwNhkwks6q)
 
 ### Week 5 (7/21 - 7/24)
 #### Monday July 21
