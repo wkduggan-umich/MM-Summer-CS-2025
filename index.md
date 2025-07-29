@@ -29,7 +29,7 @@ Final Project Discussion
 #### Tuesday July 29
 Machine Learning Part 1 KNN
 
-[📜Slides](https://docs.google.com/presentation/d/1rjgrgDPnW9Fj8OG85434-DAT2MsJOL3ukpLAK4wOv_c/edit?slide=id.p1#slide=id.p1) [📄Blank Colab](https://colab.research.google.com/drive/1IQ2QQhBnbMz2OGPBndAcxBQnOiL9iQuH#scrollTo=jPve3NDscasu) [📝Filled Colab](https://colab.research.google.com/drive/1NMZoWAkiMnuHk6FBwO51s7gZsxbhmnRQ#scrollTo=HKHwNhkwks6q) [🍷 Wine Google Sheet](https://docs.google.com/spreadsheets/d/1wgsGaIJjc_fqRwI-ptCOmBZ-xb80401GnXrlcGO-ov4/edit?gid=120661272#gid=120661272)
+[📄Blank Colab](https://colab.research.google.com/drive/1IQ2QQhBnbMz2OGPBndAcxBQnOiL9iQuH#scrollTo=jPve3NDscasu) [📝Filled Colab](https://colab.research.google.com/drive/1NMZoWAkiMnuHk6FBwO51s7gZsxbhmnRQ#scrollTo=HKHwNhkwks6q) [🍷 Wine Google Sheet](https://docs.google.com/spreadsheets/d/1wgsGaIJjc_fqRwI-ptCOmBZ-xb80401GnXrlcGO-ov4/edit?gid=120661272#gid=120661272)
 
 ### Week 5 (7/21 - 7/24)
 #### Monday July 21
