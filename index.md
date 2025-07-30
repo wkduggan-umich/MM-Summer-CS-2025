@@ -29,7 +29,12 @@ Final Project Discussion
 #### Tuesday July 29
 Machine Learning Part 1 KNN
 
-[📄Blank Colab](https://colab.research.google.com/drive/1IQ2QQhBnbMz2OGPBndAcxBQnOiL9iQuH#scrollTo=jPve3NDscasu) [📝Filled Colab](https://colab.research.google.com/drive/1NMZoWAkiMnuHk6FBwO51s7gZsxbhmnRQ#scrollTo=HKHwNhkwks6q) [🍷 Wine Google Sheet](https://docs.google.com/spreadsheets/d/1wgsGaIJjc_fqRwI-ptCOmBZ-xb80401GnXrlcGO-ov4/edit?gid=120661272#gid=120661272)
+[📄Blank Colab](https://colab.research.google.com/drive/1IQ2QQhBnbMz2OGPBndAcxBQnOiL9iQuH#scrollTo=jPve3NDscasu) [📝Filled Colab](https://colab.research.google.com/drive/1NMZoWAkiMnuHk6FBwO51s7gZsxbhmnRQ#scrollTo=HKHwNhkwks6q) [🍷Wine Google Sheet](https://docs.google.com/spreadsheets/d/1wgsGaIJjc_fqRwI-ptCOmBZ-xb80401GnXrlcGO-ov4/edit?gid=120661272#gid=120661272)
+
+#### Wednesdsay July 30
+Machine Learning Part 2 Linear Regression
+
+[📄Blank Colab](https://colab.research.google.com/drive/1DTcVB-WT4xrCB1YzV5rdbLrTTMknpECK#scrollTo=LfjEQqg79ZX-) [📝Filled Colab](https://colab.research.google.com/drive/1NMZoWAkiMnuHk6FBwO51s7gZsxbhmnRQ#scrollTo=7jCXTrRZ3ZKa) [🏠Houses CSV File](https://drive.google.com/drive/folders/1K_iqPnqdOQve9510Ixu6rI0pOZyppiKd)
 
 ### Week 5 (7/21 - 7/24)
 #### Monday July 21
